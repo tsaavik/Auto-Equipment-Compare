@@ -1,4 +1,6 @@
 -- https://rextester.com/l/lua_online_compiler
+-- https://wowwiki.fandom.com/wiki/Creating_a_slash_command
+-- https://www.wowhead.com/guide=5338/comprehensive-beginners-guide-for-wow-addon-coding-in-lua
 --
 local EventFrame = CreateFrame("frame", "EventFrame")
 EventFrame:RegisterEvent("PLAYER_ENTERING_WORLD")
