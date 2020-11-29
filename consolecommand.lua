@@ -5,7 +5,6 @@ EventFrame:RegisterEvent("PLAYER_ENTERING_WORLD")
 
 EventFrame:SetScript("OnEvent", function(self, event, ...)
    if(event == "PLAYER_ENTERING_WORLD") then
-      print("Auto Compare actived")
       ConsoleExec( "set alwaysCompareItems 1" );
       active = true
    end
