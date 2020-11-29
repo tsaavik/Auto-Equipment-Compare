@@ -1,0 +1,9 @@
+## Last updated @file-date-iso@
+## Interface: 90002
+## Version: 1.0
+## Title: Auto Equipment Compare
+## Notes: Shows compare on hover, super minimal addon.
+## Author: Tsaavik (Gnoballs @Greymane)
+## DefaultState: enabled
+
+consolecommand.lua
