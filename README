@@ -1,0 +1,12 @@
+WoW Addon - Enables auto-comparision of equipment when hovering
+
+This addon activates builtin Blizzard console switches and therefore has no bad interactions with other addons or memory/cpu.
+
+
+
+
+
+# curse auto-build info
+git tag -a v1.0 -m "Release 1.0"
+git push && git push --tags
+
