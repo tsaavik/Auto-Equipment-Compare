@@ -7,6 +7,7 @@ This addon activates builtin Blizzard console switches and therefore uses no ram
 
 
 # curse auto-build info
+git commit -a
 git tag  (shows current tags)
 git tag -a v1.0 -m "Release 1.0"
 git push && git push --tags
