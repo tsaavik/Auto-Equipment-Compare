@@ -1,6 +1,6 @@
 ## Last updated @file-date-iso@
-## Interface: 100206
-## Version: 2.8
+## Interface: 100207
+## Version: 2.9
 ## Title: Auto Equipment Compare
 ## Notes: Shows compare on hover, super minimal addon.
 ## Author: Tsaavik (Gnoballs @Greymane)
