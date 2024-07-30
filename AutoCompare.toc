@@ -1,6 +1,6 @@
 ## Last updated @file-date-iso@
-## Interface: 110000
-## Version: 3.1
+## Interface: 11502,20504,40400,110000,110002
+## Version: 3.2
 ## Title: Auto Equipment Compare
 ## Notes: Shows compare on hover, super minimal addon.
 ## Author: Tsaavik (Gnoballs @Greymane)
