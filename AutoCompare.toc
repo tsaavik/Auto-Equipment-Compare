@@ -5,5 +5,4 @@
 ## Notes: Shows compare on hover, super minimal addon.
 ## Author: Tsaavik (Gnoballs @Greymane)
 ## DefaultState: enabled
-
 consolecommand.lua
