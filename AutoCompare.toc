@@ -1,8 +1,10 @@
 ## Last updated @file-date-iso@
-## Interface: 110100
+## Interface: 110105
 ## Version: @project-revision@
 ## Title: Auto Equipment Compare
 ## Notes: Shows compare on hover, super minimal addon.
 ## Author: Tsaavik (Gnoballs @Greymane)
 ## DefaultState: enabled
+## X-Curse-Project-ID: 423577
+
 consolecommand.lua
