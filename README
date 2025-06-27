@@ -3,7 +3,6 @@ WoW Addon - Enables auto-comparision of equipment when hovering
 This addon activates builtin Blizzard console switches and therefore uses no ram/cpu resources and has no bad interactions with other addons.
 
 
-
 # curse auto-build
 git commit -a || echo "did you forget to bump TOC?"
 git tag |tail -1 #to see last tag
