@@ -1,5 +1,5 @@
 ## Last updated @file-date-iso@
-## Interface: 110205
+## Interface: 110207
 ## Version: @project-revision@
 ## Title: Auto Equipment Compare
 ## Notes: Shows compare on hover, super minimal addon.
